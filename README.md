@@ -1,1 +1,1 @@
-Sample app
+Sample app to deploy
